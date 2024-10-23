@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning python at Queen Mary
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One Piece is my favourite show
 
